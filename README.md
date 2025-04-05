@@ -1,2 +1,3 @@
 # abc-tunes-collections
-Collections of abc written tunes
+
+ABC notation tunes collections
